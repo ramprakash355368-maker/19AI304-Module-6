@@ -23,7 +23,7 @@ To write a C program that calculates the area and perimeter (circumference) of a
 6. Print the calculated area and perimeter.
 7. End the program.
 
-## Program:
+## Program.:
 
 ```c
 #include <stdio.h>
